@@ -1,0 +1,145 @@
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+1
+Enter a student name & grade to add:
+Enter the student name: 
+Sar
+Enter the grade: 
+45
+Student Details::
+Student Name:: Sar
+Grade:: 45
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+1
+Enter a student name & grade to add:
+Enter the student name: 
+Preti
+Enter the grade: 
+3
+Student Details::
+Student Name:: Preti
+Grade:: 3
+Student Name:: Sar
+Grade:: 45
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+1
+Enter a student name & grade to add:
+Enter the student name: 
+Rose
+Enter the grade: 
+3
+Student Details::
+Student Name:: Preti
+Grade:: 3
+Student Name:: Sar
+Grade:: 45
+Student Name:: Rose
+Grade:: 3
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+4
+Student Details::
+Student Name:: Preti
+Grade:: 3
+Student Name:: Sar
+Grade:: 45
+Student Name:: Rose
+Grade:: 3
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+2
+Enter a student name to remove:
+Sara
+Please enter a valid Student name
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+2
+Enter a student name to remove:
+sar
+Please enter a valid Student name
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+2
+Enter a student name to remove:
+Sar
+Entered Student details is removed
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+4
+Student Details::
+Student Name:: Preti
+Grade:: 3
+Student Name:: Rose
+Grade:: 3
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+3
+Enter a student name to display:
+Preti
+Grade:3
+-----------------------------
+1.Add Students
+2.Remove a Student
+3.Display a Student
+4.List All Students
+5.Exit
+-----------------------------
+Please enter the options:
+5
+
