@@ -15,6 +15,7 @@ public class Main {
 			voter.setName(sc.next());
 			System.out.println("Age:");
 			voter.setAge(sc.nextInt());
+			//Setting the voter details in constructor
 			voter = new Voter(voter.getVoterId(), voter.getName(), voter.getAge());
 			sc.close();
 		} catch (InvalidAgeException e) {
