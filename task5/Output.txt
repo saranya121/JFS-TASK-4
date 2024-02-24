@@ -1,0 +1,79 @@
+----------STACK--------
+1.Push Elements
+2.Pop Elements
+3.Check Empty
+4.Exit
+-----------------------------
+Please enter the options:
+1
+Enter the element to be pushed
+11
+Pushed Element is:[11]
+1.Push Elements
+2.Pop Elements
+3.Check Empty
+4.Exit
+-----------------------------
+Please enter the options:
+1
+Enter the element to be pushed
+12
+Pushed Element is:[11, 12]
+1.Push Elements
+2.Pop Elements
+3.Check Empty
+4.Exit
+-----------------------------
+Please enter the options:
+1
+Enter the element to be pushed
+13
+Pushed Element is:[11, 12, 13]
+1.Push Elements
+2.Pop Elements
+3.Check Empty
+4.Exit
+-----------------------------
+Please enter the options:
+2
+Stack Element After Pop:[11, 12]
+1.Push Elements
+2.Pop Elements
+3.Check Empty
+4.Exit
+-----------------------------
+Please enter the options:
+2
+Stack Element After Pop:[11]
+1.Push Elements
+2.Pop Elements
+3.Check Empty
+4.Exit
+-----------------------------
+Please enter the options:
+2
+Stack Element After Pop:[]
+1.Push Elements
+2.Pop Elements
+3.Check Empty
+4.Exit
+-----------------------------
+Please enter the options:
+2
+Stack is empty
+1.Push Elements
+2.Pop Elements
+3.Check Empty
+4.Exit
+-----------------------------
+Please enter the options:
+3
+Stack Empty Status:true
+1.Push Elements
+2.Pop Elements
+3.Check Empty
+4.Exit
+-----------------------------
+Please enter the options:
+4
+
